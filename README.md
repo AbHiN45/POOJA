@@ -6,13 +6,13 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+[![Stars](https://img.shields.io/github/stars/AbHiN45/POOJA?style=flat-square&color=yellow)](https://github.com/AbHiN45/POOJA/stargazers)
+[![Forks](https://img.shields.io/github/forks/AbHiN45/POOJA?style=flat-square&color=orange)](https://github.com/AbHiN45/POOJA/fork)
+[![Size](https://img.shields.io/github/repo-size/AbHiN45/POOJA?style=flat-square&color=green)](https://github.com/AbHiN45/POOJA/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AbHiN45/POOJA)   
+[![Contributors](https://img.shields.io/github/contributors/AbHiN45/POOJA?style=flat-square&color=green)](https://github.com/AbHiN45/POOJA/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/AbHiN45/POOJA/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/AbHiN45/POOJA.svg)](https://stars.medv.io/AbHiN45/POOJA)
 
 
 ## Features
@@ -30,6 +30,7 @@
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
 - [x] Spelling Check Feature
 - [x] File Store
+- [x] Auto Delete
 ## Variables
 
 Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
