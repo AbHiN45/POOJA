@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="assets/logo.jpg" alt="Pooja Logo">
 </p>
 <h1 align="center">
   <b>Pooja Bot</b>
