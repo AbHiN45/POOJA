@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="plugins/pooja.jpg" alt="Pooja Logo">
+  <img src="plugins/IMG_20220630_230516_750.jpg" alt="Pooja Logo">
 </p>
 <h1 align="center">
   <b>Pooja Bot</b>
